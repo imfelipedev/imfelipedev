@@ -6,10 +6,10 @@
 
 ### About
 - 🛠 Full-Stack developer;
-- 🚀 Working with programming for over 5 years;
+- 🚀 Working with programming for over 6 years;
 
 ### Skills
- - 🔮 Development languages: Rust, Java, TypeScript, JavaScript and Lua; 
+ - 🔮 Development languages: C++, Rust, Java, TypeScript, JavaScript and Lua; 
  - 💻 Web skills: HTML, CSS, JavaScript, React, Next.js, Nest.js, Node.js;
 
 ### Experiences
