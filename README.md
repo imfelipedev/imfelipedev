@@ -6,7 +6,7 @@
 
 ### About
 - 🛠 Full-Stack developer;
-- 🚀 Working with programming for over 6 years;
+- 🚀 Working with programming for over 7 years;
 
 ### Skills
  - 🔮 Development languages: C++, Rust, Java, TypeScript, JavaScript and Lua; 
