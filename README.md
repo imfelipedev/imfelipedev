@@ -13,4 +13,4 @@
  - 💻 Web skills: HTML, CSS, JavaScript, React, Next.js, Nest.js, Node.js;
 
 ### Experiences
-  - 🧥 I have experience with web development and applications back-and. I also have knowledge of reverse engineering and for a long time I worked in this sector manipulating application and game memory.
+  - 💼 Experience with full-stack web development, building scalable RESTful APIs, and backend development in multiple languages including C++, TypeScript, and Java. Working with microservices architecture, performance optimization, and integration of complex systems from virtualized infrastructure to mission-critical applications.
